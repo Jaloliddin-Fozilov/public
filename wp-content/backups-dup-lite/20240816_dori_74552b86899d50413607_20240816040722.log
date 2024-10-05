@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: August 16, 2024 4:07 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.10.2
+WORDPRESS:	6.6.1
+PHP INFO:	8.1.29 | SAPI: fpm-fcgi
+SERVER:		nginx/1.16.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+MEMORY STACK: 8MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:13 | filtered:0 | create:13
+FILTERED: []
+SQL CREATED: 20240816_dori_74552b86899d50413607_20240816040722_database.sql
+SQL FILE SIZE: 429.96KB (440280)
+SQL FILE TIME: 2024-08-16 04:07:29
+SQL RUNTIME: 0.49 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /Users/a4666/Local Sites/dori/app/public
+ARCHIVE FILE: 20240816_dori_74552b86899d50413607_20240816040722_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	98.24MB
+STATS:	Dirs 602 | Files 4,875
+SQL ADDED: 20240816_dori_74552b86899d50413607_20240816040722_database.sql
+ZipArchive Object
+(
+    [lastId] => 5476
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5477
+    [filename] => /Users/a4666/Local Sites/dori/app/public/wp-content/backups-dup-lite/tmp/20240816_dori_74552b86899d50413607_20240816040722_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 5476
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 32.12MB
+ARCHIVE RUNTIME: 9.79 sec.
+MEMORY STACK: 10MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 429.96KB
+INSTALLER FILE: 73.47KB
+ARCHIVE FILE: 33.97MB 
+EXPECTED FILE/DIRECTORY COUNT: 5,477
+ACTUAL FILE/DIRECTORY COUNT: 5,476
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 14.25 sec.
+PEAK PHP MEMORY USED: 10MB
+DONE PROCESSING => 20240816_dori August 16, 2024 4:07 am
+
